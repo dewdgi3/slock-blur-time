@@ -1,4 +1,4 @@
-fork of [this] (https://github.com/khuedoan/slock)
+fork of [this](https://github.com/khuedoan/slock)
 
 slock scren locker with blur and time for xorg
 
