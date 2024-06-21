@@ -15,7 +15,7 @@ static const float alpha = 0.5;
 static const int failonclear = 1;
 
 /* text color */
-static const char * text_color = "#abb2bf";
+static const char * text_color = "#F8F8F2";
 
 /* text size (must be a valid size) */
 static const char * text_size = "fixed";
